@@ -19,6 +19,8 @@
   ![Static Badge](https://img.shields.io/badge/Tensorflow-blue?style=flat-square&logo=Tensorflow&logoColor=white&color=FF6F00)
   ![Static Badge](https://img.shields.io/badge/Qgis-blue?style=flat-square&logo=Qgis&logoColor=white&color=589632)
   ![Static Badge](https://img.shields.io/badge/Fastapi-blue?style=flat-square&logo=Fastapi&logoColor=white&color=009688)
+  ![Static Badge](https://img.shields.io/badge/LangChain-blue?style=flat-square&logo=LangChain&logoColor=white&color=1C3C3C)
+
   
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choiyongwoo&layout=compact)
