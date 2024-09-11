@@ -18,7 +18,7 @@
   ![Static Badge](https://img.shields.io/badge/Pytorch-blue?style=flat-square&logo=Pytorch&logoColor=white&color=EE4C2C)
   ![Static Badge](https://img.shields.io/badge/Tensorflow-blue?style=flat-square&logo=Tensorflow&logoColor=white&color=FF6F00)
   [![Static Badge](https://img.shields.io/badge/Qgis-blue?style=flat-square&logo=Qgis&logoColor=white&color=589632)](https://img.shields.io/badge/qgis-3.28_firenze-93b023?&style=for-the-badge&logo=qgis&logoColor=white)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+  https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choiyongwoo&layout=compact)
 
