@@ -16,6 +16,7 @@
   ![Static Badge](https://img.shields.io/badge/Mysql-blue?style=flat-square&logo=Mysql&logoColor=white&color=4479A1)
   ![Static Badge](https://img.shields.io/badge/HTML5-blue?style=flat-square&logo=HTML5&logoColor=white&color=E34F26)
 
+
   
   ![Static Badge](https://img.shields.io/badge/Pytorch-blue?style=flat-square&logo=Pytorch&logoColor=white&color=EE4C2C)
   ![Static Badge](https://img.shields.io/badge/Tensorflow-blue?style=flat-square&logo=Tensorflow&logoColor=white&color=FF6F00)
