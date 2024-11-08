@@ -14,6 +14,8 @@
   ![Static Badge](https://img.shields.io/badge/Java-blue?style=flat-square&logoColor=white&color=3776AB)
   ![Static Badge](https://img.shields.io/badge/R-blue?style=flat-square&logo=R&logoColor=white&color=276DC3)
   ![Static Badge](https://img.shields.io/badge/Mysql-blue?style=flat-square&logo=Mysql&logoColor=white&color=4479A1)
+  ![Static Badge](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
   
   ![Static Badge](https://img.shields.io/badge/Pytorch-blue?style=flat-square&logo=Pytorch&logoColor=white&color=EE4C2C)
   ![Static Badge](https://img.shields.io/badge/Tensorflow-blue?style=flat-square&logo=Tensorflow&logoColor=white&color=FF6F00)
